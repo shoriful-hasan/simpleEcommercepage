@@ -1,0 +1,25 @@
+
+@media( max-width:768px)
+{
+.right-side-drop{display: none;}   
+.topheader-left-side
+{
+text-align: center;
+ 
+} 
+
+.middle-search-type
+{
+display: none;    
+}
+
+.header-top-emg
+{
+width:120px;    
+}
+
+}
+
+
+
+

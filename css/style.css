@@ -1,0 +1,435 @@
+.right-side-img
+{
+width: 30px;
+height: 30px;    
+}
+img
+{
+width: 100%;    
+}
+.header-top-emg img
+{
+width: 120px;    
+}
+/* topheader-middle-content css code here */
+
+
+.topheader-middle-search
+{
+border-radius: 5px;    
+}
+
+.btn-design-top
+{
+margin-left: -20px;
+border: 1px solid #d6d0c4;
+background: none;
+width:110px;
+height: 37px;
+justify-content: center;
+align-items: center;
+display: flex;    
+border-radius: 5px;
+}
+
+.tor span
+{
+padding: 15px 0;    
+}
+
+.kiray
+{
+border: 1px solid #d6d0c4;
+background: none;
+color: black;
+opacity: .5;    
+}
+.header-middle-location
+{
+padding: 30px 0;    
+}
+
+.middle-left-code
+{
+display: flex;
+justify-content: space-between; 
+align-items: center;   
+}
+.middle-left-code a
+{
+padding: 10px 15px;    
+}
+.ier-cls
+{
+top:-10px;
+right: -10px;
+width: 20px;
+height: 20px;
+border-radius: 50%;
+background-color:green;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+
+/* offcanvas css start here */
+
+.offcanimg
+{
+width:55px;    
+}
+.ofcanwidth
+{
+width: 550px !important;    
+}
+
+.ico-color
+{
+color: #0aad0a;
+font-size: 18px;    
+}
+
+.can-li-span-width
+{
+
+font-size: 14px;
+text-transform: capitalize;
+font-weight: 700;
+
+}
+
+.button-minus
+{
+    background-color: transparent;
+    border-color:#dfdeda;
+    height: 2rem;
+    width: 1.8rem;    
+}
+
+.opacity
+{
+color: #97958e;
+
+}
+
+/* offcan css end here */
+
+
+/* navbar css code start here */
+.amar
+{
+display: none !important;    
+transition-duration: 5s;
+}
+
+.tomer
+{
+    background:#099309;
+    
+}
+.tomer:hover .amar
+{
+display: block !important;    
+}
+
+.amar-2
+{
+display: none !important;    
+transition-duration: 5s;
+}
+
+.tomer-2:hover .amar-2
+{
+display: block !important;    
+}
+
+/* mega menu css code here */
+
+
+
+.emg img
+{
+width:40px;    
+}
+/* navbar css code end here */
+
+.caro-my-design
+{
+width: 100%;
+height:420px;    
+}
+
+.try-somthing
+{
+position: absolute;
+top: 50px;
+width: 490px;
+line-height: 35px;
+left: 45px;   
+}
+.elss
+{
+position: absolute;
+top: 50px;
+width: 490px;
+line-height: 35px;
+left: 45px;      
+}
+
+/* product two banner design here */
+
+.banner-first
+{
+height: 220px;
+width: 100%;
+border-radius: 5px;    
+}
+
+.first-content-banner
+{
+position: absolute;    
+top:20px;
+left: 10px;
+line-height: 60px; 
+}
+
+
+.banner-right
+{
+height: 220px;
+width: 100%;
+border-radius: 5px;    
+}
+.second-content-banner
+{
+position: absolute;    
+top:20px;
+left: 10px;
+line-height: 60px; 
+}
+
+
+/* product two banner design end here */
+
+
+
+
+
+
+
+/* product card design start here */
+
+.third
+{
+width:210px;
+   
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center; 
+}
+
+.third img
+{
+width: 50%;
+margin-bottom: 20px;    
+}
+.emg-firts-text
+{
+margin-left: 10px;
+margin-top: 20px;    
+}
+.emg-second-text
+{
+font-size: 18px;
+margin-left: -43px;
+margin-top: -20px;    
+}
+
+.star
+{
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;    
+}
+.star i
+{
+color: yellow;
+
+}
+.star-right-text
+{
+margin-left: 5px;    
+}
+.last-item
+{
+width: 90%;
+display: flex;
+justify-content: space-between;
+align-items: center;    
+}
+.product-iteam-button
+{
+background: #099309;
+border: 1px solid #0aad0a;
+color: white;    
+}
+.hver-effect
+{
+position: absolute;    
+width: 100%;    
+
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+letter-spacing: 20px;
+top: 0;
+visibility: hidden;
+
+}
+.card-hver:hover .hver-effect
+{
+visibility: visible;  
+}
+
+.card-hver
+{
+transition: .5s;    
+}
+.card-hver:hover
+{
+border: 1px solid #099309 !important;
+scale: 1.1;   
+}
+
+.hver-mid
+{  
+width: 160px;
+display: flex;    
+justify-content: space-around;
+align-items: center;
+}
+.hver-mid a
+{
+border-radius: 6px;    
+width: 30px;    
+background:white;
+box-shadow: 2px 2px 35px rgba(0, 0,0, 0.5);
+
+}
+.hver-mid a:hover
+{
+background: #099309;    
+}
+
+.hver-mid a i
+{
+margin-left: 5px;
+color: black;
+  
+}
+.hver-mid a i:hover
+{
+color: white;
+}
+
+/* product card design end here */
+
+/* the last product card css start here */
+.last-product-first-iteam
+{
+object-fit: cover;
+border-radius: 6px;
+height: 550px;
+}
+.inner-text
+{
+margin-top: 50px;    
+}
+.inner-text h2
+{
+color: white;
+font-weight: 600;
+text-transform: capitalize;
+}
+.inner-text p
+{
+color: white;
+text-transform: capitalize;
+font-size: 18px;
+font-weight: 500;
+margin-top: 20px;
+margin-bottom: 20px;    
+}
+
+.inner-button-text
+{
+margin-top: 30px;
+border: 1px solid #099309;
+background: #099309;
+color: white;
+width: 120px;
+height: 40px;
+text-align: center;
+border-radius:12px;    
+}
+.inner-button-text i
+{
+margin-left: 10px;    
+}
+
+.right i
+{
+color:rgb(219, 219, 36);   
+}
+
+
+.my-btn-design
+{
+  
+outline: none;
+border: 1px solid #0aad0a;   
+margin-bottom: 50px;
+background: #0aad0a;
+color: white;
+width: 100%;
+height: 40px;
+border-radius: 12px;
+}
+.my-btn-design i
+{
+padding-right: 10px;    
+}
+
+.oray-wow
+{
+margin-top: 10px;
+margin-left: 70px;    
+}
+.last-btn-design
+{
+border: 1px solid #bdaeae; 
+border-radius: 5px;   
+}
+.last-to-last-btn-design
+{
+width:80px;
+outline: none;
+border: 1px solid #bdaeae;
+border-radius: 6px;
+}
+
+.ami-ses
+{
+padding-bottom:1px !important;    
+color: black;
+}
+
+.tumi-nai
+{
+margin-bottom: -15px !important;    
+}
+
+/* the last product card css end here */
